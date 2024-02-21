@@ -1,0 +1,45 @@
+.bread{
+    background-color: #69359C;
+    padding-top:50px;
+}
+.floor{
+    height:500px;
+    width:400px;
+    background-color:  #bc13fe;
+    margin:auto;
+    border-radius:10px;
+    padding-top:20px;
+    padding:10px;
+}
+.home{
+    height:10px;
+    background-color:#bc13fe;
+    width:100px;
+    margin: auto;
+}
+.lane{
+    height:100px;
+    width:100px;
+    background-color:rgb(186, 106, 133);
+    margin-left:20px;
+}
+.cups{
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-left:50px;
+    width:300px;
+    border-radius:10px;
+}
+.phone{
+    background-color:white;
+    margin-left:250px;
+}
+.end{
+    margin-left:80px;
+    width:200px;
+    border-radius:5px;
+}
+table,td,th{
+    border:1px solid black;
+    margin: auto;
+}
